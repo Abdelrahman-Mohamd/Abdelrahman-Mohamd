@@ -102,7 +102,7 @@
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/abdelrahman-mohamed-49808b246/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="abdelrahman mohamed" height="30" width="40" /></a>
+<a href="linkedin.com/in/abdelrahmanmohamd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="abdelrahman mohamed" height="30" width="40" /></a>
 
 <br>
 	
