@@ -11,7 +11,7 @@
 - CSE Student at Helwan University
 - Full-stack Web Developer.
 - Flutter Developer.
-- Currently Working On [Public Transportation Guidance](https://github.com/HaidyGamal/GP-WebApp) For Graduation Project.
+- Graduation Project: [Public Transportation Guidance](https://github.com/HaidyGamal/GP-WebApp).
 
 <br><br>
 
