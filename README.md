@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi, my name is Abdelrahman Mohamed.</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">A full-stack web / flutter Developer.</h3>
+<h3 align="center">Frontend Developer.</h3>
 <br>
 	
 ## <picture><img src = "https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" width = 50px></picture> **About me**
@@ -8,9 +8,8 @@
 
 <br>
 
-- CSE Fresh Graduate From Helwan University
-- Full-stack Web Developer.
-- Flutter Developer.
+- Software Engineering Graduate From Helwan University
+- Frontend Developer.
 - Graduation Project: [Public Transportation Guidance](https://github.com/HaidyGamal/GP-WebApp).
 
 <br><br>
