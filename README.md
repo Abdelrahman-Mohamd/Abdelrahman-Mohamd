@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Abdelrahman, a full-time Software Developer @Electro Pi, and a part-time Frontend Developer @OZAsoft</p>
+<p align="left">I'm Abdelrahman, a full-time Frontend Developer @Electro Pi, and a part-time Frontend Developer @OZAsoft</p>
 
 ###
 
