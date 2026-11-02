@@ -1,68 +1,101 @@
-<!--
-  GitHub Profile README
-  Repository: Abdelrahman-Mohamd/Abdelrahman-Mohamd
--->
-
 <div align="center">
 
 # Abdelrahman Mohamed
 
-### SOFTWARE ENGINEER · FRONT-END DEVELOPER
+### FRONT-END DEVELOPER · SOFTWARE ENGINEER
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Building+things+for+the+web.;Turning+ideas+into+working+products.;Frontend+is+my+specialty%2C+engineering+is+my+mindset." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=8B9CF6&center=true&vCenter=true&width=650&lines=I+build+interfaces%2C+products%2C+and+systems.;From+pixel-perfect+UI+to+backend+logic.;Always+curious.+Always+building." alt="Developer introduction" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahmanmohamd/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdelrahman-Mohamd)
-[![Email](https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahman.muhamed.dev@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=Abdelrahman-Mohamd&style=flat-square&color=70A5FD&label=PROFILE+VIEWS" alt="Profile views" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B9CF6?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahmanmohamd/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/Abdelrahman-Mohamd)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdelrahman.muhamed.dev@gmail.com)
 
 </div>
 
 ---
 
-## `01` — The person behind the code
+<div align="center">
 
-```typescript
-const abdelrahman = {
-  role: "Front-End Developer",
-  location: "Cairo, Egypt",
-  education: "B.Eng. Software Engineering",
-  experience: "Production-focused software development",
+## THE WEB IS MY CANVAS. ENGINEERING IS MY CRAFT.
 
-  primaryStack: ["React", "Next.js", "TypeScript"],
+</div>
 
-  alsoWorkingWith: [
-    "Node.js",
-    "NestJS",
-    "ASP.NET Core",
-    "Vue.js"
-  ],
+I build digital products that go beyond making things look good.
 
-  interests: [
-    "Software Architecture",
-    "Full-Stack Development",
-    "AI Integrations",
-    "Developer Experience"
-  ],
+My work revolves around translating complex requirements into intuitive interfaces, building maintainable frontend architectures, and connecting the dots between frontend, backend, and the overall product experience.
 
-  mindset: "Understand the problem. Engineer the solution."
-};
-```
+I primarily work with **React, Next.js, and TypeScript**, but I'm equally interested in understanding what happens behind the interface.
 
-I'm a Software Engineering graduate and developer who enjoys building meaningful products and solving problems through technology.
-
-My experience ranges from production web applications and enterprise dashboards to PWAs, real-time communication tools, AI-powered integrations, and backend services.
-
-I primarily work with **React, Next.js, and TypeScript**, but I enjoy exploring the bigger picture: architecture, APIs, databases, maintainability, and the decisions that make software reliable.
-
-Currently developing an **EMR Billing System** and contributing to multiple products at **COB Solution**.
+Based in Cairo, Egypt. Working across products, industries, and technologies.
 
 ---
 
-## `02` — My engineering toolbox
+## WHAT I BRING TO THE TABLE
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Interface Engineering
+
+Building responsive, accessible, and maintainable interfaces.
+
+- React & Next.js applications
+- Component-driven architecture
+- State management
+- Progressive Web Apps
+- UI/UX implementation
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Backend & Systems
+
+Going beyond the browser to understand and build the systems behind products.
+
+- REST API development
+- NestJS & Node.js
+- ASP.NET Core
+- Database integration
+- Authentication & business logic
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Product Development
+
+Turning requirements and ideas into functional products.
+
+- Internal dashboards
+- Enterprise applications
+- SaaS platforms
+- Third-party integrations
+- Real-time applications
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Exploring the Possibilities
+
+Experimenting with technologies that expand what software can do.
+
+- AI-powered applications
+- Chatbot integrations
+- LiveKit & real-time communication
+- Web APIs
+- Developer tools
+
+</td>
+</tr>
+</table>
+
+---
+
+## MY ENGINEERING TOOLBOX
 
 <div align="center">
 
@@ -76,93 +109,135 @@ Currently developing an **EMR Billing System** and contributing to multiple prod
 
 ### Testing, Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,npm,webpack,docker,vitest" />
+<img src="https://skillicons.dev/icons?i=git,github,npm,webpack,babel" />
 
 </div>
 
 ---
 
-## `03` — Things I've built
+## SELECTED WORK
 
-I believe the best way to understand engineering experience is to look at the products behind it.
+A collection of products, platforms, and experiments I've had the opportunity to build and contribute to.
 
-### Production platforms
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Project | What I worked on |
-|:---|:---|
-| [CareReach](https://care-reach.cobsolution.cloud/) | Full-stack platform development using Next.js, React, and NestJS |
-| [ShariaBase](https://shariabase.ai/) | Production frontend development |
-| [Malooma](https://information.sa/) | Production web application |
-| Saudi Arabia Railways (SAR) | Enterprise frontend development |
-| Pirelli | Production frontend development |
-| [Mosamimon](https://mosamimon.com/) | Platform development serving 2,000+ users |
-| [COB Solution](https://www.cobsolution.com/) | Corporate website and product development |
+### [01 / CareReach](https://care-reach.cobsolution.cloud/)
 
-### Experiments, tools & integrations
+**Full-Stack Development**
 
-| Project | What I worked on |
-|:---|:---|
-| [LiveKit RPC Tester](https://livekit-rpc-tester.netlify.app/) | Built an RPC testing platform |
-| [ElectroPi Chatbot](https://www.npmjs.com/package/@electropi/chatbot-plugin) | Developed a reusable chatbot plugin using Stencil and published it as an NPM package |
-| [COB Chatbot](https://cob-chatbot-psi.vercel.app/login?redirect=%2Forganizations) | Chatbot platform development |
-| [Falak Cargo](https://www.falakcargo.com/) | Shipping website development using Next.js |
-| [TRENDS Research & Advisory](https://trends-poc.netlify.app/ar) | AI chatbot proof of concept |
-| [Tx360](https://dashboard.tx360.ai/login) | Frontend development and LiveKit integration |
+A healthcare platform built with Next.js, React, and NestJS. Took ownership of the admin portal across frontend and backend.
+
+`Next.js` `React` `NestJS`
+
+</td>
+<td width="50%" valign="top">
+
+### [02 / ShariaBase](https://shariabase.ai/)
+
+**Production Application**
+
+Frontend development for an AI-focused platform.
+
+`Next.js` `TypeScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [03 / Mosamimon](https://mosamimon.com/)
+
+**Platform Development**
+
+Contributing to a platform serving 2,000+ users.
+
+`React` `Frontend`
+
+</td>
+<td width="50%" valign="top">
+
+### [04 / LiveKit RPC Tester](https://livekit-rpc-tester.netlify.app/)
+
+**Developer Tool**
+
+A platform built to test LiveKit RPC communication.
+
+`JavaScript` `LiveKit`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [05 / ElectroPi Chatbot](https://www.npmjs.com/package/@electropi/chatbot-plugin)
+
+**Open-source Package**
+
+A reusable chatbot plugin developed with Stencil and published to NPM.
+
+`Stencil` `NPM` `Web Components`
+
+</td>
+<td width="50%" valign="top">
+
+### [06 / Malooma](https://information.sa/)
+
+**Production Application**
+
+Frontend development for a Saudi-based information platform.
+
+`Next.js` `TypeScript`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More projects & contributions</b></summary>
+
+- [COB Solution Website](https://www.cobsolution.com/) — Corporate website development.
+- [COB Chatbot](https://cob-chatbot-psi.vercel.app/login?redirect=%2Forganizations) — Chatbot platform development.
+- [Falak Cargo](https://www.falakcargo.com/) — Shipping website built with Next.js.
+- [TRENDS Research & Advisory](https://trends-poc.netlify.app/ar) — AI chatbot proof of concept.
+- [Tx360](https://dashboard.tx360.ai/login) — Frontend development and LiveKit integration.
+- [CareReach Website](https://info.carereachapp.com/) — Website development using Next.js.
+- [Saudi Arabia Railways](https://www.sar.com.sa/) — Production frontend contribution.
+- Pirelli — Production frontend contribution.
+
+</details>
 
 ---
 
-## `04` — Beyond development
+## A LITTLE MORE THAN CODE
 
-I also enjoy sharing knowledge and helping other developers grow.
+Beyond building software, I enjoy sharing knowledge and helping others get into programming.
 
 - **150+ students** taught across 10 programming courses.
-- **20+ students** mentored through 30+ individual programming projects.
-- Conducted frontend technical interviews and participated in code reviews.
-- Worked with teams across healthcare, education, transportation, logistics, and research.
+- **20+ students** mentored through 30+ individual projects.
+- Participated in technical interviews and code reviews.
+- Experience working across healthcare, education, transportation, logistics, and research.
 
----
-
-## `05` — GitHub activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Mohamd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Mohamd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
-
-<br/>
-
-<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abdelrahman-Mohamd&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity" />
-
-</div>
-
----
-
-## `06` — What's next?
-
-I'm continuously exploring ways to become a better engineer.
-
-Currently interested in:
-
-- Going deeper into full-stack engineering and system architecture.
-- Building scalable, maintainable applications.
-- AI-assisted software development and practical AI integrations.
-- Understanding the reasoning behind engineering decisions, not just the implementation.
+I believe understanding *why* something works is just as important as knowing *how* to build it.
 
 ---
 
 <div align="center">
 
-### HAVE AN INTERESTING PROBLEM TO SOLVE?
+## HAVE SOMETHING INTERESTING IN MIND?
 
-I'm always happy to connect with developers, exchange ideas, and explore interesting opportunities.
+I'm always interested in meaningful engineering challenges, collaborations, and opportunities to build something worth building.
 
-**Let's build something meaningful.**
-
-[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-70A5FD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahmanmohamd/)
-[![Email](https://img.shields.io/badge/DROP_ME_AN_EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahman.muhamed.dev@gmail.com)
+**Let's make it happen.**
 
 <br/>
 
-<sub>Made with curiosity, coffee, and a questionable number of open browser tabs.</sub>
+[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-8B9CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahmanmohamd/)
+[![Email](https://img.shields.io/badge/GET_IN_TOUCH-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahman.muhamed.dev@gmail.com)
+
+<br/>
+
+<sub>Designed with intention. Built with curiosity. Maintained with coffee.</sub>
 
 </div>
