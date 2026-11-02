@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./hero.svg" alt="Abdelrahman Mohamed — Front-End Developer" width="100%" />
+  <img src="./Egyptian Developer Portfolio Bannerhero.png" alt="Abdelrahman Mohamed — Front-End Developer" width="100%" />
 </div>
 
 
