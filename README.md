@@ -1,243 +1,150 @@
 <div align="center">
-
-# Abdelrahman Mohamed
-
-### FRONT-END DEVELOPER · SOFTWARE ENGINEER
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=8B9CF6&center=true&vCenter=true&width=650&lines=I+build+interfaces%2C+products%2C+and+systems.;From+pixel-perfect+UI+to+backend+logic.;Always+curious.+Always+building." alt="Developer introduction" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B9CF6?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahmanmohamd/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/Abdelrahman-Mohamd)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdelrahman.muhamed.dev@gmail.com)
-
+  <img src="./assets/hero.svg" alt="Abdelrahman Mohamed — Front-End Developer" width="100%" />
 </div>
 
----
-
-<div align="center">
-
-## THE WEB IS MY CANVAS. ENGINEERING IS MY CRAFT.
-
-</div>
-
-I build digital products that go beyond making things look good.
-
-My work revolves around translating complex requirements into intuitive interfaces, building maintainable frontend architectures, and connecting the dots between frontend, backend, and the overall product experience.
-
-I primarily work with **React, Next.js, and TypeScript**, but I'm equally interested in understanding what happens behind the interface.
-
-Based in Cairo, Egypt. Working across products, industries, and technologies.
-
----
-
-## WHAT I BRING TO THE TABLE
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ Interface Engineering
-
-Building responsive, accessible, and maintainable interfaces.
-
-- React & Next.js applications
-- Component-driven architecture
-- State management
-- Progressive Web Apps
-- UI/UX implementation
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ Backend & Systems
-
-Going beyond the browser to understand and build the systems behind products.
-
-- REST API development
-- NestJS & Node.js
-- ASP.NET Core
-- Database integration
-- Authentication & business logic
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ Product Development
-
-Turning requirements and ideas into functional products.
-
-- Internal dashboards
-- Enterprise applications
-- SaaS platforms
-- Third-party integrations
-- Real-time applications
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ Exploring the Possibilities
-
-Experimenting with technologies that expand what software can do.
-
-- AI-powered applications
-- Chatbot integrations
-- LiveKit & real-time communication
-- Web APIs
-- Developer tools
-
-</td>
-</tr>
+  <tr>
+    <td width="68%" valign="top">
+      <sub><b>01 / PROFILE</b></sub>
+      <h2>Engineering the<br/>experience behind<br/>the interface.</h2>
+      I’m a software engineer focused on building digital products — from polished user interfaces to the systems and integrations that power them.
+      <br/><br/>
+      My core work is in React, Next.js, and TypeScript. I also build backend services with NestJS and work across APIs, databases, real-time tools, and AI integrations.
+    </td>
+    <td width="32%" valign="top">
+      <sub><b>BASED IN</b></sub>
+      <h3>CAIRO<br/>EGYPT</h3>
+      <hr/>
+      <sub><b>FOCUS</b></sub>
+      <p>Frontend<br/>Full-stack<br/>Product engineering</p>
+      <hr/>
+      <sub><b>EDUCATION</b></sub>
+      <p>B.Eng.<br/>Software Engineering</p>
+    </td>
+  </tr>
 </table>
 
----
 
-## MY ENGINEERING TOOLBOX
+<sub><b>02 / CAPABILITIES</b></sub>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 — INTERFACES</h3>
+      Product interfaces, design systems, responsive applications, dashboards, and PWAs.
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 — APPLICATIONS</h3>
+      Full-stack features, REST APIs, backend services, database integration, and business logic.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 — INTEGRATIONS</h3>
+      AI chatbots, real-time communication, third-party services, and browser APIs.
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 — ENGINEERING</h3>
+      Component architecture, state management, testing, code reviews, and maintainability.
+    </td>
+  </tr>
+</table>
 
+
+<sub><b>03 / ENGINEERING TOOLBOX</b></sub>
 <div align="center">
 
-### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,tailwind,redux,vite" />
+FRONTEND
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,tailwind,redux,vite" alt="Frontend technologies" />
 
-### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,cs,prisma,mysql,postgres" />
+BACKEND & DATABASES
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,cs,prisma,mysql,postgres" alt="Backend and database technologies" />
 
-### Testing, Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,npm,webpack,babel" />
+TOOLS & QUALITY
+<img src="https://skillicons.dev/icons?i=git,github,npm,webpack,babel,docker" alt="Tools and platforms" />
 
 </div>
 
----
 
-## SELECTED WORK
-
-A collection of products, platforms, and experiments I've had the opportunity to build and contribute to.
-
+<sub><b>04 / SELECTED WORK</b></sub>
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### [01 / CareReach](https://care-reach.cobsolution.cloud/)
-
-**Full-Stack Development**
-
-A healthcare platform built with Next.js, React, and NestJS. Took ownership of the admin portal across frontend and backend.
-
-`Next.js` `React` `NestJS`
-
-</td>
-<td width="50%" valign="top">
-
-### [02 / ShariaBase](https://shariabase.ai/)
-
-**Production Application**
-
-Frontend development for an AI-focused platform.
-
-`Next.js` `TypeScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [03 / Mosamimon](https://mosamimon.com/)
-
-**Platform Development**
-
-Contributing to a platform serving 2,000+ users.
-
-`React` `Frontend`
-
-</td>
-<td width="50%" valign="top">
-
-### [04 / LiveKit RPC Tester](https://livekit-rpc-tester.netlify.app/)
-
-**Developer Tool**
-
-A platform built to test LiveKit RPC communication.
-
-`JavaScript` `LiveKit`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [05 / ElectroPi Chatbot](https://www.npmjs.com/package/@electropi/chatbot-plugin)
-
-**Open-source Package**
-
-A reusable chatbot plugin developed with Stencil and published to NPM.
-
-`Stencil` `NPM` `Web Components`
-
-</td>
-<td width="50%" valign="top">
-
-### [06 / Malooma](https://information.sa/)
-
-**Production Application**
-
-Frontend development for a Saudi-based information platform.
-
-`Next.js` `TypeScript`
-
-</td>
-</tr>
+  <tr>
+    <td width="9%" valign="top"><h2>01</h2></td>
+    <td width="41%" valign="top">
+      <b><a href="https://care-reach.cobsolution.cloud/">CARE REACH</a></b><br/>
+      <sub>HEALTHCARE / FULL-STACK</sub><br/><br/>
+      Built the admin portal across frontend and backend, using Next.js, React, and NestJS.
+    </td>
+    <td width="9%" valign="top"><h2>02</h2></td>
+    <td width="41%" valign="top">
+      <b><a href="https://mosamimon.com/">MOSAMIMON</a></b><br/>
+      <sub>PRODUCT / PLATFORM</sub><br/><br/>
+      Frontend development for a platform serving 2,000+ users.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><h2>03</h2></td>
+    <td valign="top">
+      <b><a href="https://www.npmjs.com/package/@electropi/chatbot-plugin">ELECTROPI CHATBOT</a></b><br/>
+      <sub>OPEN-SOURCE / WEB COMPONENTS</sub><br/><br/>
+      Developed a reusable chatbot plugin with Stencil and published it as an NPM package.
+    </td>
+    <td valign="top"><h2>04</h2></td>
+    <td valign="top">
+      <b><a href="https://livekit-rpc-tester.netlify.app/">LIVEKIT RPC TESTER</a></b><br/>
+      <sub>DEVELOPER TOOL / REAL-TIME</sub><br/><br/>
+      Built a testing platform for LiveKit RPC communication.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><h2>05</h2></td>
+    <td valign="top">
+      <b><a href="https://shariabase.ai/">SHARIABASE</a></b><br/>
+      <sub>AI / PRODUCTION APPLICATION</sub><br/><br/>
+      Contributed to production frontend development.
+    </td>
+    <td valign="top"><h2>06</h2></td>
+    <td valign="top">
+      <b><a href="https://information.sa/">MALOOMA</a></b><br/>
+      <sub>PRODUCTION / WEB APPLICATION</sub><br/><br/>
+      Frontend development for a Saudi-based information platform.
+    </td>
+  </tr>
 </table>
 
 <details>
-<summary><b>More projects & contributions</b></summary>
-
-- [COB Solution Website](https://www.cobsolution.com/) — Corporate website development.
-- [COB Chatbot](https://cob-chatbot-psi.vercel.app/login?redirect=%2Forganizations) — Chatbot platform development.
-- [Falak Cargo](https://www.falakcargo.com/) — Shipping website built with Next.js.
-- [TRENDS Research & Advisory](https://trends-poc.netlify.app/ar) — AI chatbot proof of concept.
-- [Tx360](https://dashboard.tx360.ai/login) — Frontend development and LiveKit integration.
-- [CareReach Website](https://info.carereachapp.com/) — Website development using Next.js.
-- [Saudi Arabia Railways](https://www.sar.com.sa/) — Production frontend contribution.
-- Pirelli — Production frontend contribution.
-
+  <summary><b>ADDITIONAL SELECTED CONTRIBUTIONS</b></summary>
+  <br/>
+  <a href="https://www.cobsolution.com/">COB Solution</a> — Corporate website and product development.<br/>
+  <a href="https://info.carereachapp.com/">CareReach Website</a> — Website development with Next.js.<br/>
+  <a href="https://www.falakcargo.com/">Falak Cargo</a> — Shipping website built with Next.js.<br/>
+  <a href="https://trends-poc.netlify.app/ar">TRENDS Research & Advisory</a> — AI chatbot proof of concept.<br/>
+  <a href="https://dashboard.tx360.ai/login">Tx360</a> — Frontend development and LiveKit integration.<br/>
+  Saudi Arabia Railways and Pirelli — Production frontend contributions.
 </details>
 
----
 
-## A LITTLE MORE THAN CODE
+<sub><b>05 / ELSEWHERE</b></sub>
 
-Beyond building software, I enjoy sharing knowledge and helping others get into programming.
+I’ve also taught 150+ students across 10 programming courses and mentored 20+ students through 30+ individual projects. I enjoy helping people understand not just how to write code, but how to think through problems.
 
-- **150+ students** taught across 10 programming courses.
-- **20+ students** mentored through 30+ individual projects.
-- Participated in technical interviews and code reviews.
-- Experience working across healthcare, education, transportation, logistics, and research.
-
-I believe understanding *why* something works is just as important as knowing *how* to build it.
-
----
+<table>
+  <tr>
+    <td width="70%" valign="middle">
+      <h2>Have a good problem?</h2>
+      I'm interested in thoughtful products, challenging engineering work, and collaborations with people who care about what they build.
+    </td>
+    <td width="30%" align="right" valign="middle">
+      <a href="https://www.linkedin.com/in/abdelrahmanmohamd/"><b>LINKEDIN ↗</b></a><br/><br/>
+      <a href="mailto:abdelrahman.muhamed.dev@gmail.com"><b>EMAIL ↗</b></a><br/><br/>
+      <a href="https://github.com/Abdelrahman-Mohamd"><b>GITHUB ↗</b></a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-
-## HAVE SOMETHING INTERESTING IN MIND?
-
-I'm always interested in meaningful engineering challenges, collaborations, and opportunities to build something worth building.
-
-**Let's make it happen.**
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-8B9CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahmanmohamd/)
-[![Email](https://img.shields.io/badge/GET_IN_TOUCH-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahman.muhamed.dev@gmail.com)
-
-<br/>
-
-<sub>Designed with intention. Built with curiosity. Maintained with coffee.</sub>
-
+  <sub>ABDELRAHMAN MOHAMED · SOFTWARE ENGINEERING · CAIRO, EGYPT</sub>
 </div>
